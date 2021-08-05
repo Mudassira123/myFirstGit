@@ -1,1 +1,1 @@
-console.log("HELLO WORLD");
+console.log("I caused a merge conflict");
